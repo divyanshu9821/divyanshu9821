@@ -38,7 +38,7 @@ _Gurugram, Haryana | October 2023 – September 2024_
 
 ---
 ### Certification
-**Build a Modern Computer from First Principles (Nand to Tetris):** _Hebrew University of Jerusalem, Israel_ (2025).
+**Build a Modern Computer from First Principles (Nand to Tetris):** _Hebrew University of Jerusalem, Israel_ (2025). [link](./computer-architecture)
 - Covered logic gates, ALU design, Assemblers, Virtual Machines, and High-Level Compilers.
 ### Education
 **Bachelor of Technology, Computer Science and Engineering** ( First Division )  
