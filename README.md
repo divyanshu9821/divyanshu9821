@@ -29,7 +29,7 @@ _Gurugram, Haryana | October 2023 – September 2024_
 - **Hybrid Data Architecture:** Reduced data retrieval latency by **60%** for a high-traffic job portal by architecting a dual-layer storage system between **MySQL (Relational) and Elasticsearch (NoSQL)**.
 - **Advanced API Integrations:** Developed and deployed secure integration modules for **ChatGPT** (automated content) and **Razorpay** (financial transactions).
 - **System Optimization:** Provided critical bug fixes and architectural improvements for legacy HRMS and Visitor Management systems, extending their lifecycle and stability.
-- **Mentorship:** Actively participated in technical screenings for new hires and mentored 2 interns.
+- **Mentorship:** Actively participated in technical screenings for new hires and mentored 3 interns.
 ---
 ### Certification
 **Build a Modern Computer from First Principles (Nand to Tetris):** _Hebrew University of Jerusalem, Israel_ (2025). [link](https://github.com/divyanshu9821/computer-architecture)
