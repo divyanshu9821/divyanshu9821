@@ -6,7 +6,7 @@ Gurugram, Haryana, India
 
 ---
 ### Professional Summary
-Results-driven Full Stack Developer with over 2 years of experience building high-concurrency, real-time applications. Proficient in managing **dual-stack environments**, leveraging **Core PHP/Laravel** for robust legacy systems while architecting modern **Node.js/React** solutions for greenfield projects. Specialized in **Event-Driven Architectures**, performance optimization, and reliable messaging layers with a focus on cross-platform integration.
+Results-driven Full Stack Developer with over 2 years of experience building full stack applications. Proficient in managing **dual-stack environments**, leveraging **Core PHP/Laravel** for robust legacy systems while architecting modern **Node.js/React** solutions. Specialized in **Event-Driven Architectures**, performance optimization, and reliable messaging layers with a focus on cross-platform integration.
 #### Technical Skills
 - **Backend:** Node.js, Express.js, Socket.io, Core PHP, Laravel, CodeIgniter.
 - **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+), HTML5/CSS3.
@@ -30,11 +30,6 @@ _Gurugram, Haryana | October 2023 – September 2024_
 - **Advanced API Integrations:** Developed and deployed secure integration modules for **ChatGPT** (automated content) and **Razorpay** (financial transactions).
 - **System Optimization:** Provided critical bug fixes and architectural improvements for legacy HRMS and Visitor Management systems, extending their lifecycle and stability.
 - **Mentorship:** Actively participated in technical screenings for new hires and mentored a team of 3 interns on modern clean-coding standards.
-
----
-### Selected Technical Projects
-- **Enterprise Real-Time Collaboration Suite:** A full-stack messaging platform featuring automated OTP-based session rotation, secure asset handling via endpoint-protected uploads, and real-time administrative oversight.
-- **High-Concurrency Recruitment Portal:** Leveraged Laravel and Elasticsearch to manage large-scale user datasets, featuring advanced filtering and rapid-search capabilities.
 
 ---
 ### Certification
