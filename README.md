@@ -32,7 +32,7 @@ _Gurugram, Haryana | October 2023 – September 2024_
 - **Mentorship:** Actively participated in technical screenings for new hires and mentored 3 interns.
 ---
 ### Certification
-**Build a Modern Computer from First Principles (Nand to Tetris):** _Hebrew University of Jerusalem, Israel_ (2025). [link](https://github.com/divyanshu9821/computer-architecture)
+**Build a Modern Computer from First Principles (Nand to Tetris):** _Hebrew University of Jerusalem, Israel_ (2025). [link](https://github.com/divyanshu9821/nand2tetris)
 - Covered logic gates, ALU design, Assemblers, Virtual Machines, and High-Level Compilers.
 ### Education
 **Bachelor of Technology, Computer Science and Engineering** ( First Division )  
